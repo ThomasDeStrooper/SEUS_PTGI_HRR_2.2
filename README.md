@@ -1,19 +1,24 @@
-<h1 style="text-align:center;">AuraSkills</h1>
+<h1 style="text-align:center;">SnowCraft: Final Edition</h1>
 
 <p style="text-align:center;">
-The ultra-versatile Minecraft RPG skills plugin
+Discover a unique Minecraft multiplayer experience like never before
 </p>
 
-[![GitHub Release](https://img.shields.io/github/v/release/Archy-X/AuraSkills?style=flat-square)](https://github.com/Archy-X/AuraSkills/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/Archy-X/AuraSkills?style=flat-square)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
 
-<p style="text-align: center;font-weight: bold;">
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/Bh2EZfB">Discord</a>
+  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a>
 </p>
 
 ## About
 
-**AuraSkills** (formerly **Aurelium Skills**) is a Minecraft plugin that adds skills, stats, abilities, and other RPG-related features. The plugin is fully configurable and customizable, enabling usage on a wide range of server types.
+**Snowcraft** is a unique Minecraft server like no other, transporting you to an entirely new world 
+filled with endless adventures. Engage in epic battles against formidable monsters, 
+explore uncharted territories, and uncover hidden secrets. Master custom skills tailored to enhance 
+your gameplay, wield powerful new weapons, and take on mighty dragons in thrilling encounters. 
+This open-world MMORPG survival server offers a rich and immersive experience where everyone 
+is welcome to join and play. Whether you’re a seasoned player or new to the game, 
+Snowcraft promises an unforgettable journey.
 
 Features include:
 - **Skills** - Gain skill XP to level skills through general Minecraft tasks, such as Farming or Mining.
@@ -24,76 +29,3 @@ Features include:
 - **Loot** - Create custom loot tables for fishing, blocks, and mobs.
 
 See the [official website](https://aurelium.dev/auraskills) and [wiki](https://wiki.aurelium.dev/auraskills) for a more complete list of features. The wiki also contains the list of [server requirements](https://wiki.aurelium.dev/auraskills/server-requirements) to run the plugin.
-
-## Building
-
-AuraSkills uses Gradle for dependencies and building.
-
-#### Compiling from source
-
-First, clone the project (requires Git to be installed):
-
-```
-git clone https://github.com/Archy-X/AuraSkills.git
-cd AuraSkills/
-```
-
-Then build depending on your operating system:
-
-Linux / macOS
-
-```
-./gradlew clean build
-```
-
-Windows
-
-```
-.\gradlew.bat clean build
-```
-
-The output jar can be found in the `build/libs` directory.
-
-## API
-
-AuraSkills has an extensive developer API.
-
-Read the full API documentation on the [wiki](https://wiki.aurelium.dev/auraskills/api), or view the [Javadocs](https://docs.aurelium.dev/auraskills-api-bukkit/).
-
-Release versions are published to the Maven central repository.
-
-### Maven
-
-```xml
-<dependency>
-    <groupId>dev.aurelium</groupId>
-    <artifactId>auraskills-api-bukkit</artifactId>
-    <version>2.2.0</version>
-    <scope>provided</scope>
-</dependency>
-```
-### Gradle
-
-**Groovy DSL:**
-```gradle
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    compileOnly 'dev.aurelium:auraskills-api-bukkit:2.2.0'
-}
-```
-**Kotlin DSL:**
-```Gradle Kotlin DSL
-repositories { 
-    mavenCentral()
-}
-
-dependencies { 
-    compileOnly("dev.aurelium:auraskills-api-bukkit:2.2.0")
-}
-```
-
-## Contributing
-Contributions are welcome, just open a pull request.
