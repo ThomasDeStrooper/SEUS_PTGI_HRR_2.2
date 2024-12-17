@@ -1,7 +1,7 @@
 # SnowCraft
 The ultra-versatile Minecraft RPG skills plugin
 
-GitHub Release Maven Central Version Spiget Downloads
+[GitHub Release Maven Central Version Spiget Downloads](https://github.com/Archy-X/AuraSkills/releases/tag/2.2.7)
 
 Downloads    |    Wiki    |    Discord
 
