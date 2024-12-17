@@ -3,7 +3,7 @@ The ultra-versatile Minecraft RPG skills plugin
 
 (https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases)
 
-Downloads    |    Wiki    |    Discord
+Discord: https://discord.gg/w4eFd4WMhZ
 
 About
 AuraSkills (formerly Aurelium Skills) is a Minecraft plugin that adds skills, stats, abilities, and other RPG-related features. The plugin is fully configurable and customizable, enabling usage on a wide range of server types.
