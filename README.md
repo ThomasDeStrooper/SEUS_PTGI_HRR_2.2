@@ -7,9 +7,6 @@ The ultra-versatile Minecraft RPG skills plugin
 [![GitHub Release](https://img.shields.io/github/v/release/Archy-X/AuraSkills?style=flat-square)](https://github.com/Archy-X/AuraSkills/releases/latest)
 
 <p style="text-align: center;font-weight: bold;">
-  <a href="https://aurelium.dev/auraskills/download">Downloads</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://wiki.aurelium.dev/auraskills">Wiki</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/Bh2EZfB">Discord</a>
 </p>
