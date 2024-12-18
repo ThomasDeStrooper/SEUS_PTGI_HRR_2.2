@@ -33,7 +33,7 @@ Features include:
 - **Seasons** - The game features four distinct seasons, each bringing transformative changes to the world that leave a lasting impact on the gameplay and environment.
 - **Factions** - You can choose to join one of three unique factions, each offering exclusive abilities that enhance your gameplay experience and define your journey in the game.
 - **Mobs & Bosses** - The game is filled with unique custom mobs and powerful bosses, each presenting exciting challenges for you to overcome and rewarding victories to claim.
-- **Battle Pass** - Take on exciting weekly and daily quests to earn rewards upon completion! For even more quests and exclusive rewards, you can unlock the premium pass by purchasing a rank, giving you access to additional challenges and bigger prizes. [(paid)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues)
+- **Battle Pass** - Take on exciting weekly and daily quests to earn rewards upon completion! For even more quests and exclusive rewards, you can unlock the premium pass by purchasing a rank, giving you access to additional challenges and bigger prizes.
 - **Blacksmith** - Buy a wide variety of weapons and ores to improve your strength through the blacksmith system.
 
 Features coming soon:
@@ -44,7 +44,7 @@ Features coming soon:
 - **Treasure Chests** - Create custom loot tables for fishing, blocks, and mobs.
 - **Classes** - Players can see everything related to skills in fully-configurable inventory GUIs.
 - **Codex** - Players can see everything related to skills in fully-configurable inventory GUIs.
-- **Pets** - Pets are cosmetic companions on our server that can be unlocked by purchasing a rank. While they primarily serve as a fun visual feature, some pets can also assist you during fights. Even the default rank, which is free and available to everyone, includes a wide variety of pets for you to enjoy. [(paid)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues)
+- **Pets** - Pets are cosmetic companions on our server that can be unlocked by purchasing a rank. While they primarily serve as a fun visual feature, some pets can also assist you during fights. Even the default rank, which is free and available to everyone, includes a wide variety of pets for you to enjoy.
   
 If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
 
