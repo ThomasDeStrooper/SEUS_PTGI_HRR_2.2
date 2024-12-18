@@ -20,12 +20,29 @@ is welcome to join and play. Whether you’re a seasoned player or new to the ga
 Snowcraft promises an unforgettable journey.
 
 Features include:
-- **Skills** - Gain skill XP to level skills through general Minecraft tasks, such as Farming or Mining.
-- **Stats** - Get player buffs like increased health and damage by leveling skills, which can be as independent modifiers and on items.
-- **Abilities** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
-- **Menus** - Players can see everything related to skills in fully-configurable inventory GUIs.
-- **Rewards** - Customize rewards given for leveling skills, such as running commands or giving items.
-- **Loot** - Create custom loot tables for fishing, blocks, and mobs.
+- **Brand New World** - Gain skill XP to level skills through general Minecraft tasks, such as Farming, Mining and more.
+- **Custom Fishing Mechanics** - Gain skill XP to level skills through general Minecraft tasks, such as Farming, Mining and more.
+- **Kits** - Gain skill XP to level skills through general Minecraft tasks, such as Farming, Mining and more.
+- **Skills** - Gain skill XP to level skills through general Minecraft tasks, such as Farming, Mining and more.
+- **Quests** - Earn exciting rewards and exclusive bonuses by completing challenging quests and unlocking new adventures along the way!
+- **Storage** - Free up valuable space in your inventory by storing your items in the /storage, ensuring you have room for new treasures and essential gear!
+- **Jobs** - Join jobs and earn money
+- **Items** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+- **Seasons** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+- **Factions** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+- **Mobs & Bosses** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+- **Blacksmith** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+- **Custom Structures** - Skills have passive and active abilities that add gameplay mechanics, plus a full mana system.
+
+Features coming soon:
+- **Ores** - Players can see everything related to skills in fully-configurable inventory GUIs.
+- **Recipies** - Players can see everything related to skills in fully-configurable inventory GUIs.
+- **Achievments** - Customize rewards given for leveling skills, such as running commands or giving items.
+- **Loot Drops** - Create custom loot tables for fishing, blocks, and mobs.
+- **Treasure Chests** - Create custom loot tables for fishing, blocks, and mobs.
+- **Classes** - Players can see everything related to skills in fully-configurable inventory GUIs.
+- **Codex** - Players can see everything related to skills in fully-configurable inventory GUIs.
+- **Pets** - Players can see everything related to skills in fully-configurable inventory GUIs.
 
 See the [official website](https://aurelium.dev/auraskills) and [wiki](https://wiki.aurelium.dev/auraskills) for a more complete list of features. The wiki also contains the list of [server requirements](https://wiki.aurelium.dev/auraskills/server-requirements) to run the plugin.
 
