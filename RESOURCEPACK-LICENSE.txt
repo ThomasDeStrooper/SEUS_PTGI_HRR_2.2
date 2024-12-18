@@ -1,0 +1,19 @@
+User License Agreement
+Effective Date: April 10, 2024
+
+Licensee: Thomas De Strooper
+
+Licensor: SnowCraft
+
+Purpose of License: This license grants you the right to use the resource pack provided by SnowCraft Copilot for personal, non-commercial purposes only.
+
+Terms and Conditions:
+
+You may use the resource pack solely for your own personal use.
+You may not sell, distribute, or sublicense the resource pack.
+You may not modify, reverse engineer, or decompile the resource pack.
+You may not use the resource pack for any illegal or harmful activities.
+You acknowledge that this license does not grant you any ownership rights in the resource pack.
+Disclaimer: SnowCraft provides the resource pack “as is” without any warranties or guarantees. We are not responsible for any damages or losses resulting from the use of the resource pack.
+
+By using the resource pack, you agree to these terms and conditions. If you do not agree, you should not use this resource pack.
