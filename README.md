@@ -70,7 +70,7 @@ Options > Resource Packs > Open Pack Folder
 And drag and drop the resource pack in the directory:
 
 ```
-User\AppData\Roaming\.minecraft/resourcepacks
+User\AppData\Roaming\.minecraft\resourcepacks
 ```
 SnowCraft `automatically` sends you a resource pack, but this resource pack is only for the `models and sounds`.
 
