@@ -50,9 +50,9 @@ Features coming soon:
   
 If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
 
-## Resourcepack
+## Resource pack
 
-SnowCraft uses a custom resourcepack.
+SnowCraft uses a custom resource pack.
 
 #### How to install the resource pack
 
