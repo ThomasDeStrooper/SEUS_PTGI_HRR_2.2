@@ -54,7 +54,7 @@ SnowCraft uses a custom resourcepack.
 
 #### Compiling from source
 
-First, click the link below to download the resourcepack (requires Optifine to be installed):
+First, click the link below to download the resourcepack (Optifine is recommended but not required):
 
 ```
 https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing
