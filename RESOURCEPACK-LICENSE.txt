@@ -1,6 +1,8 @@
 User License AgreementEffective Date: April 10, 2024
 
-Licensee: Thomas De StrooperLicensor: SnowCraft
+Licensee: Thomas De Strooper
+
+Licensor: SnowCraft
 
 Purpose of the License
 
