@@ -39,7 +39,7 @@ Features include:
 Features coming soon:
 - **Ores** - There are over 60 unique and rare ores scattered throughout the underground, waiting to be discovered and mined for valuable resources.
 - **Recipies** - Craft custom items, including unique weapons, melt rare ores into valuable materials, and create a wide variety of other specialized gear to enhance your adventure.
-- **Achievements** - A new system allows you to choose from a variety of achievements, such as catching custom fish, mining rare ores, defeating custom mobs and bosses, and much more. As you complete these achievements, you'll earn Achievement Points, unlocking even greater rewards.
+- **Achievements** - A new system allows you to choose from a variety of achievements, such as catching custom fish, mining rare ores, defeating custom mobs and bosses, and much more. As you complete these achievements, you'll earn Achievement Points.
 - **Loot Drops** - Custom mobs and bosses drop unique, custom loot upon their defeat, offering players exclusive rewards that can't be found elsewhere.
 - **Treasure Chests** - Treasure chests randomly spawn throughout the world, each containing unique and custom loot that offers valuable rewards for those who seek them out.
 - **Classes** - Join different classes, level up your character, and unlock a wide range of powerful abilities that will enhance your skills and give you an edge in battle.
