@@ -13,7 +13,7 @@ Discover a unique Minecraft multiplayer experience like never before
 
 ## About
 
-**Snowcraft** is a unique Minecraft server like no other, transporting you to an entirely new world 
+**Snowcraft** (formerly **SnowCraft: Final Edition**) is a unique Minecraft server like no other, transporting you to an entirely new world 
 filled with endless adventures. Engage in epic battles against formidable monsters, 
 explore uncharted territories, and uncover hidden secrets. Master custom skills tailored to enhance 
 your gameplay, wield powerful new weapons, and take on mighty dragons in thrilling encounters. 
@@ -47,6 +47,32 @@ Features coming soon:
 - **Pets** - Pets are cosmetic companions on our server that can be unlocked by purchasing a rank. While they primarily serve as a fun visual feature, some pets can also assist you during fights. Even the default rank, which is free and available to everyone, includes a wide variety of pets for you to enjoy.
   
 If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
+
+## Resourcepack
+
+SnowCraft uses a custom resourcepack.
+
+#### Compiling from source
+
+First, click the link below to download the resourcepack (requires Optifine to be installed):
+
+```
+https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing
+```
+
+Then open your pack folders on your operating system:
+
+```
+.\Options > Resource Packs > Open Pack Folder
+```
+
+And drag and drop the resource pack in the directory:
+
+```
+.minecraft/resourcepacks
+```
+SnowCraft `automatically` sends you a resource pack, but this resource pack is only for the `models and sound`.
+
 
 ## API
 
