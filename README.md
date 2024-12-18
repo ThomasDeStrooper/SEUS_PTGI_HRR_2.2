@@ -37,13 +37,13 @@ Features include:
 - **Blacksmith** - Buy a wide variety of weapons and ores to improve your strength through the blacksmith system.
 
 Features coming soon:
-- **Ores** - Players can see everything related to skills in fully-configurable inventory GUIs.
-- **Recipies** - Players can see everything related to skills in fully-configurable inventory GUIs.
-- **Achievments** - Customize rewards given for leveling skills, such as running commands or giving items.
-- **Loot Drops** - Create custom loot tables for fishing, blocks, and mobs.
-- **Treasure Chests** - Create custom loot tables for fishing, blocks, and mobs.
-- **Classes** - Players can see everything related to skills in fully-configurable inventory GUIs.
-- **Codex** - Players can see everything related to skills in fully-configurable inventory GUIs.
+- **Ores** - There are over 60 unique and rare ores scattered throughout the underground, waiting to be discovered and mined for valuable resources.
+- **Recipies** - Craft custom items, including unique weapons, melt rare ores into valuable materials, and create a wide variety of other specialized gear to enhance your adventure.
+- **Achievements** - A new system allows you to choose from a variety of achievements, such as catching custom fish, mining rare ores, defeating custom mobs and bosses, and much more. As you complete these achievements, you'll earn Achievement Points, unlocking even greater rewards.
+- **Loot Drops** - Custom mobs and bosses drop unique, custom loot upon their defeat, offering players exclusive rewards that can't be found elsewhere.
+- **Treasure Chests** - Treasure chests randomly spawn throughout the world, each containing unique and custom loot that offers valuable rewards for those who seek them out.
+- **Classes** - Join different classes, level up your character, and unlock a wide range of powerful abilities that will enhance your skills and give you an edge in battle.
+- **Codex** - When you defeat mobs and bosses or discover new regions, they will be added to the Codex system, and you'll receive rewards.
 - **Pets** - Pets are cosmetic companions on our server that can be unlocked by purchasing a rank. While they primarily serve as a fun visual feature, some pets can also assist you during fights. Even the default rank, which is free and available to everyone, includes a wide variety of pets for you to enjoy.
   
 If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
