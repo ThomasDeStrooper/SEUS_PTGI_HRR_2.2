@@ -13,7 +13,7 @@ Discover a unique Minecraft multiplayer experience like never before
 
 ## About
 
-**Snowcraft** (formerly **SnowCraft: Final Edition**) is a unique Minecraft server like no other, transporting you to an entirely new world 
+**SnowCraft: Final Edition** (formerly **SnowCraft**) is a unique Minecraft server like no other, transporting you to an entirely new world 
 filled with endless adventures. Engage in epic battles against formidable monsters, 
 explore uncharted territories, and uncover hidden secrets. Master custom skills tailored to enhance 
 your gameplay, wield powerful new weapons, and take on mighty dragons in thrilling encounters. 
