@@ -77,7 +77,7 @@ SnowCraft `automatically` sends you a resource pack, but this resource pack is o
 
 ## API
 
-**SnowCraft** has an extensive &ndeveloper API.
+**SnowCraft** has an extensive developer API.
 Release versions are published to the Maven central repository.
 
 ### Maven
