@@ -29,3 +29,45 @@ Features include:
 - **Loot** - Create custom loot tables for fishing, blocks, and mobs.
 
 See the [official website](https://aurelium.dev/auraskills) and [wiki](https://wiki.aurelium.dev/auraskills) for a more complete list of features. The wiki also contains the list of [server requirements](https://wiki.aurelium.dev/auraskills/server-requirements) to run the plugin.
+
+## API
+
+SnowCraft has an extensive developer API.
+
+Release versions are published to the Maven central repository.
+
+### Maven
+
+```xml
+<dependency>
+    <groupId>dev.thomasdestrooper</groupId>
+    <artifactId>snowcraft-api-bukkit</artifactId>
+    <version>2.2.0</version>
+    <scope>provided</scope>
+</dependency>
+```
+### Gradle
+
+**Groovy DSL:**
+```gradle
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'dev.thomasdestrooper:snowcraft-api-bukkit:2.2.0'
+}
+```
+**Kotlin DSL:**
+```Gradle Kotlin DSL
+repositories { 
+    mavenCentral()
+}
+
+dependencies { 
+    compileOnly("dev.thomasdestrooper:snowcraft-api-bukkit:2.2.0")
+}
+```
+
+## Contributing
+Contributions are welcome, just open a pull request.
