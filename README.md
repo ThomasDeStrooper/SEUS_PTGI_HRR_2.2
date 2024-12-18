@@ -9,7 +9,7 @@ Discover a unique Minecraft multiplayer experience like never before
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
 [![Resourcepack](https://img.shields.io/badge/resourcepack-b30-red)](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing)
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://www.patreon.com/c/thomasdestrooper">Patreon</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues">Issues</a>
+<a href="https://discord.gg/w4eFd4WMhZ">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://www.patreon.com/c/thomasdestrooper">Patreon</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues">Issues</a>
 
 ## About
 
