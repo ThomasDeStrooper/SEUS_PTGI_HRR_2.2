@@ -5,9 +5,9 @@ Discover a unique Minecraft multiplayer experience like never before
   
 [![GitHub Release](https://img.shields.io/badge/release-v2.2.2-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
-[![Resourcepack](https://img.shields.io/badge/Resourcepack-b30-red)](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing)
+[![Resourcepack](https://img.shields.io/badge/resourcepack-b30-red)](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing)
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://www.patreon.com/c/thomasdestrooper">Patreon</a>
 
 ## About
 
@@ -42,8 +42,8 @@ Features coming soon:
 - **Classes** - Players can see everything related to skills in fully-configurable inventory GUIs.
 - **Codex** - Players can see everything related to skills in fully-configurable inventory GUIs.
 - **Pets** - Players can see everything related to skills in fully-configurable inventory GUIs.
-
-See the [official website](https://aurelium.dev/auraskills) and [wiki](https://wiki.aurelium.dev/auraskills) for a more complete list of features. The wiki also contains the list of [server requirements](https://wiki.aurelium.dev/auraskills/server-requirements) to run the plugin.
+  
+If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
 
 ## API
 
