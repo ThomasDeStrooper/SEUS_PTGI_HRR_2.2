@@ -2,13 +2,12 @@
 
 <p style="text-align:center;">
 Discover a unique Minecraft multiplayer experience like never before
-</p>
+  
+[![GitHub Release](https://img.shields.io/badge/release-v2.2.2-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
+[![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
+[![Maven Central Version](https://img.shields.io/maven-central/v/dev.aurelium/auraskills-api-bukkit?style=flat-square&color=%238529F5)]()
 
-[![GitHub Release](https://img.shields.io/github/v/release/Archy-X/AuraSkills?style=flat-square)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
-
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a>
-</p>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://discord.gg/w4eFd4WMhZ">Discord</a>
 
 ## About
 
