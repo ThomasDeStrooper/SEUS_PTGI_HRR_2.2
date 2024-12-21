@@ -8,7 +8,7 @@ Discover a unique Minecraft multiplayer experience like never before
 [![GitHub Release](https://img.shields.io/badge/release-v2.2.3-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
 [![Resourcepack](https://img.shields.io/badge/resourcepack-b30-red)](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing)
-[![Version](https://img.shields.io/badge/version-1.20/1.20.4-yellow)]()
+[![Version](https://img.shields.io/badge/version-1.19.4/1.20.4-yellow)]()
 
 <a href="https://discord.gg/w4eFd4WMhZ">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://www.patreon.com/c/thomasdestrooper">Patreon</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues">Issues</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md">License</a>
 
