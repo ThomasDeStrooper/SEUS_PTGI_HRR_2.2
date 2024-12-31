@@ -57,23 +57,20 @@ SnowCraft uses a custom resource pack.
 
 #### How to install the resource pack
 
-First, click the link below to download the resourcepack (Optifine is recommended but not required):
+First, click the link to download the [resourcepack](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing) (Optifine is recommended but not required):
 
-```
-https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing
-```
-
-Then open your pack folders on your operating system:
+#### Then open your pack folders on your operating system:
 
 ```
 Options > Resource Packs > Open Pack Folder
 ```
 
-And drag and drop the resource pack in the directory:
+#### And drag and drop the resource pack in the directory:
 
 ```
 User\AppData\Roaming\.minecraft\resourcepacks
 ```
+
 SnowCraft `automatically` sends you a resource pack, but this resource pack is only for the `models and sounds`.
 
 
