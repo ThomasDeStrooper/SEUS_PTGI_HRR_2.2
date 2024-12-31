@@ -36,8 +36,9 @@ Snowcraft promises an unforgettable journey.
 - **Factions** - You can choose to join one of three unique factions, each offering exclusive abilities that enhance your gameplay experience and define your journey in the game.
 - **Mobs & Bosses** - The game is filled with unique custom mobs and powerful bosses, each presenting exciting challenges for you to overcome and rewarding victories to claim.
 - **Battle Pass** - Take on exciting weekly and daily quests to earn rewards upon completion! For even more quests and exclusive rewards, you can unlock the premium pass by purchasing a rank, giving you access to additional challenges and bigger prizes.
-- **Blacksmith** - Buy a wide variety of weapons and ores to improve your strength through the blacksmith system.
-
+- **Blacksmith** - Buy a wide variety of weapons with coins to improve your strength through the blacksmith system.
+- **Thirst & Stamina** – Your character becomes thirsty over time and must drink to survive. Failure to hydrate will lead to death. Running or swimming drains stamina, requiring rest to recover. Manage both to stay alive.
+  
 ## Features coming soon:
 - **Ores** - There are over 60 unique and rare ores scattered throughout the underground, waiting to be discovered and mined for valuable resources.
 - **Recipies** - Craft custom items, including unique weapons, melt rare ores into valuable materials, and create a wide variety of other specialized gear to enhance your adventure.
