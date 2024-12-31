@@ -1,0 +1,82 @@
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <localRepository>/path/to/local/repo</localRepository>
+
+    <interactiveMode>true</interactiveMode>
+
+    <offline>false</offline>
+
+    <pluginGroups>
+        <pluginGroup>org.apache.maven.plugins</pluginGroup>
+        <pluginGroup>org.codehaus.mojo</pluginGroup>
+    </pluginGroups>
+
+    <servers>
+        <!-- Example server configuration -->
+        <server>
+            <id>my-repo</id>
+            <username>your-username</username>
+            <password>your-password</password>
+        </server>
+    </servers>
+
+    <mirrors>
+        <!-- Example: Use a mirror for central repository -->
+        <mirror>
+            <id>central-mirror</id>
+            <name>Central Repository Mirror</name>
+            <url>https://your-mirror-url</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+    </mirrors>
+
+    <proxies>
+        <!-- Example: Add a proxy configuration if needed -->
+        <proxy>
+            <id>proxy-id</id>
+            <active>true</active>
+            <protocol>http</protocol>
+            <host>proxy-host</host>
+            <port>8080</port>
+            <username>proxy-username</username>
+            <password>proxy-password</password>
+            <nonProxyHosts>*.example.com|localhost</nonProxyHosts>
+        </proxy>
+    </proxies>
+
+    <profiles>
+        <profile>
+            <id>default</id>
+            <repositories>
+                <repository>
+                    <id>central</id>
+                    <url>https://repo.maven.apache.org/maven2</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                </repository>
+            </repositories>
+            <pluginRepositories>
+                <pluginRepository>
+                    <id>central</id>
+                    <url>https://repo.maven.apache.org/maven2</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                </pluginRepository>
+            </pluginRepositories>
+        </profile>
+    </profiles>
+
+    <activeProfiles>
+        <activeProfile>default</activeProfile>
+    </activeProfiles>
+</settings>
