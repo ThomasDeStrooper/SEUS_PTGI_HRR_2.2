@@ -7,10 +7,10 @@
 The Snowcraft Resource Pack incorporates free resources from the following creators. These resources were available for public use and have been utilized in accordance with their distribution terms. I gratefully acknowledge their contributions:
 
 - **Colourful Containers GUI** by Kingybu  
-  - Resource Pack Link: [https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui]  
+  - Resource Pack Link: <https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui>  
 
 - **Dynamic Surroundings Sounds Pack** by AS12  
-  - Resource Pack Link: [https://www.curseforge.com/minecraft/texture-packs/dynamic-surroundings-remastered]  
+  - Resource Pack Link: <https://www.curseforge.com/minecraft/texture-packs/dynamic-surroundings-remastered>  
 
 ## Usage and Permissions
 
