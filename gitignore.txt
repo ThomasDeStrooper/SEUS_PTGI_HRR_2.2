@@ -1,0 +1,39 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# IDE specific files
+# Eclipse
+.settings/
+.project
+.classpath
+# IntelliJ IDEA
+.idea/
+*.iml
+# NetBeans
+nbproject/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JUnit
+/test-classes/
+
