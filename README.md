@@ -124,7 +124,7 @@ Contributions are welcome, just open a pull request.
 
 The Snowcraft Resource Pack is free to use on the Snowcraft server, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the pack. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. Using the resource pack solely on the Snowcraft server helps protect the integrity of the work and supports the experience I’ve designed for the community.
 
-## Credit
+### Credit
 
 *Click here to read [the entire credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
 
