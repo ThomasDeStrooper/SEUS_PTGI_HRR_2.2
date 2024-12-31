@@ -1,28 +1,23 @@
-name: Deploy to Server
+name: Your Workflow
 
 on:
   push:
     branches:
-      - main   # Trigger deployment only on the 'main' branch. You can adjust this to other branches.
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up SSH key for server access
-      uses: webfactory/ssh-agent@v0.5.3
-      with:
-        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}   # Store your private key securely in GitHub secrets
+      - name: Set up SSH agent
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-    - name: Deploy to Server
-      run: |
-        ssh -o StrictHostKeyChecking=no user@yourserver.com "cd /path/to/your/app && git pull && ./deploy.sh"
-      env:
-        DEPLOYMENT_ENV: production
-
-    - name: Deployment Status
-      run: echo "Deployment to production complete!"
+      - name: Deploy
+        run: |
+          # Your deployment commands
