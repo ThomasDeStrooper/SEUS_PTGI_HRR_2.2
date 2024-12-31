@@ -1,45 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
-    <!-- General project information -->
     <modelVersion>4.0.0</modelVersion>
+    
+    <!-- Group ID: usually your organization's domain name in reverse -->
     <groupId>com.example</groupId>
-    <artifactId>my-project</artifactId>
+    
+    <!-- Artifact ID: the name of your project -->
+    <artifactId>snowcraft-final-edition</artifactId>
+    
+    <!-- Version of your project -->
     <version>1.0-SNAPSHOT</version>
+    
+    <!-- Packaging type -->
     <packaging>jar</packaging>
 
-    <!-- Project name and description -->
-    <name>My Maven Project</name>
-    <description>Example Maven project for display in GitHub repository</description>
+    <!-- Project description -->
+    <name>SnowCraft Final Edition</name>
+    <description>A cool project for SnowCraft Final Edition</description>
+    <url>https://github.com/yourusername/SnowCraft-Final-Edition</url>
 
-    <!-- Dependencies (example) -->
+    <!-- Java version -->
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+    <!-- Dependencies -->
     <dependencies>
-        <!-- Example dependency for Maven to show in your project -->
+        <!-- Example: Add dependencies here -->
+        <!-- JUnit for testing -->
         <dependency>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.8.1</version>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
         </dependency>
+
+        <!-- Add other dependencies as needed -->
     </dependencies>
 
-    <!-- Build settings -->
+    <!-- Build Configuration -->
     <build>
         <plugins>
+            <!-- Maven Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
-                <version>3.1.0</version>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.10.1</version>
                 <configuration>
-                    <archive>
-                        <manifestEntries>
-                            <Built-By>${user.name}</Built-By>
-                        </manifestEntries>
-                    </archive>
+                    <source>17</source>
+                    <target>17</target>
                 </configuration>
             </plugin>
         </plugins>
     </build>
 </project>
-
