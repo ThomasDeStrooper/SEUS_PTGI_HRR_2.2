@@ -126,6 +126,6 @@ The Snowcraft Resource Pack is free to use on the Snowcraft server, but its dist
 
 ## Credit
 
-*Click here to read [the entire Credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
+*Click here to read [the entire credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
 
 The Snowcraft Resource Pack uses some resources from other developers, which have been utilized in accordance with their respective distribution terms. These resources were sourced from publicly available platforms offering them for free use, and I acknowledge the contributions of the creators.
