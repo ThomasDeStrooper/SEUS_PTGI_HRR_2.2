@@ -7,7 +7,7 @@
   
 [![GitHub Release](https://img.shields.io/badge/release-v2.2.6-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
-[![Resourcepack](https://img.shields.io/badge/resourcepack-b30-red)](https://www.googleapis.com/drive/v3/files/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig?alt=media&key=AIzaSyAjiCJAPplrXZ9gW6n-MQsOM7Z-qiP-FQ0)
+[![Resourcepack](https://img.shields.io/badge/resourcepack-download-red)](https://www.googleapis.com/drive/v3/files/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig?alt=media&key=AIzaSyAjiCJAPplrXZ9gW6n-MQsOM7Z-qiP-FQ0)
 [![Version](https://img.shields.io/badge/version-1.19.4/1.20.4-yellow)]()
 
 <a href="https://discord.gg/w4eFd4WMhZ">Discord</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://www.patreon.com/c/thomasdestrooper">Patreon</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues">Issues</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md">License</a>
@@ -57,7 +57,7 @@ SnowCraft uses a custom resource pack.
 
 #### How to install the resource pack
 
-First, click the link to download the [resourcepack](https://drive.google.com/file/d/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig/view?usp=sharing) (Optifine is recommended but not required):
+First, click the link to download the [resource pack](https://www.googleapis.com/drive/v3/files/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig?alt=media&key=AIzaSyAjiCJAPplrXZ9gW6n-MQsOM7Z-qiP-FQ0) (Optifine is recommended but not required):
 
 #### Then open your pack folders on your operating system:
 
