@@ -62,7 +62,7 @@ First, click the link to download the [resource pack](https://www.googleapis.com
 #### Then open your pack folders on your operating system:
 
 ```
-Options > Resource Packs > Open Pack Folder
+Options\Resource Packs\Open Pack Folder
 ```
 
 #### And drag and drop the resource pack in the directory:
