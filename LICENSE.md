@@ -1,7 +1,7 @@
 # SNOWCRAFT LICENSE
 
 
-## Version 1.0, January 2025
+## Version 2.0, January 2025
 
 
 ## Definitions
