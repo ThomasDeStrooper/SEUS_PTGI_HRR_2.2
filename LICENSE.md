@@ -25,7 +25,7 @@ The Resource Pack is provided with no warranty. Suggestions for improvement are 
 ## SNOWCRAFT LICENSE
 ### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-1. This Resource Pack is for use exclusively on the Snowcraft server.
+1. This Resource Pack is for use exclusively on the SnowCraft server.
 
 2. You may not redistribute, sell, or modify the Resource Pack without explicit permission from the Copyright Holder.
 
