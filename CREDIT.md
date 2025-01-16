@@ -1,10 +1,10 @@
 # SNOWCRAFT RESOURCE PACK CREDITS
 
-## Version 1.0, January 2025
+## Version 2.0, January 2025
 
 ## Acknowledgments
 
-The Snowcraft Resource Pack incorporates free resources from the following creators. These resources were available for public use and have been utilized in accordance with their distribution terms. I gratefully acknowledge their contributions:
+The SnowCraft Resource Pack incorporates free resources from the following creators. These resources were available for public use and have been utilized in accordance with their distribution terms. I gratefully acknowledge their contributions:
 
 - **Colourful Containers GUI** by Kingybu  
   - Resource Pack Link: <https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui>  
@@ -18,5 +18,5 @@ The resources listed above were obtained from publicly accessible platforms wher
 
 ## Non-Commercial Use
 
-The Snowcraft Resource Pack is a non-commercial project. I, Thomas De Strooper, do not make any money from this resource pack and will never do so. This resource pack exists solely for enhancing the experience on the Snowcraft server and will not be distributed, sold, or otherwise monetized.
+The SnowCraft Resource Pack is a non-commercial project. I, Thomas De Strooper, do not make any money from this Resource Pack and will never do so. This Resource Pack exists solely for enhancing the experience on the SnowCraft server and will not be distributed, sold, or otherwise monetized.
 
