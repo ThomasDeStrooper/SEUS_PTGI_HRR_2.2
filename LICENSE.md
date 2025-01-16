@@ -6,7 +6,7 @@
 
 ## Definitions
 
-"Resource Pack" refers to the collection of files distributed by the Copyright Holder, specifically created for the Snowcraft server.
+"Resource Pack" refers to the collection of files distributed by the Copyright Holder, specifically created for the SnowCraft server.
 
 "Copyright Holder" is Thomas De Strooper.
 
@@ -29,6 +29,6 @@ The Resource Pack is provided with no warranty. Suggestions for improvement are 
 
 2. You may not redistribute, sell, or modify the Resource Pack without explicit permission from the Copyright Holder.
 
-3. Using this Resource Pack outside of the Snowcraft server or claiming it as your own work is strictly prohibited.
+3. Using this Resource Pack outside of the SnowCraft server or claiming it as your own work is strictly prohibited.
 
 4. The Resource Pack is provided "as is" without any warranty. Suggestions for improvement are welcome, but they must comply with the terms of this license.
