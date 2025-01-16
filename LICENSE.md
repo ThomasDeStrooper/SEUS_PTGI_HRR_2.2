@@ -15,7 +15,7 @@
 
 ## Copyright (C) 2025 Thomas De Strooper
 
-You are not allowed to redistribute full, partial, or modified versions of the Resource Pack to which this license is associated. This includes selling, sharing, or claiming the Resource Pack as your own. The Resource Pack may only be used to play on the Snowcraft server and is not permitted for use in other contexts.
+You are not allowed to redistribute full, partial, or modified versions of the Resource Pack to which this license is associated. This includes selling, sharing, or claiming the Resource Pack as your own. The Resource Pack may only be used to play on the SnowCraft server and is not permitted for use in other contexts.
 
 This license does not apply to modules or extensions that use but do not contain full, partial, or modified code from this Resource Pack.
 
