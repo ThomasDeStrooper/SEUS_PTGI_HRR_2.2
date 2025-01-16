@@ -18,5 +18,5 @@ The resources listed above were obtained from publicly accessible platforms wher
 
 ## Non-Commercial Use
 
-The Snowcraft Resource Pack is a non-commercial project. I, Thomas De Strooper, do not make any money from this resource pack and will never do so. This project exists solely for enhancing the experience on the Snowcraft server and will not be distributed, sold, or otherwise monetized.
+The Snowcraft Resource Pack is a non-commercial project. I, Thomas De Strooper, do not make any money from this resource pack and will never do so. This Resource Pack exists solely for enhancing the experience on the Snowcraft server and will not be distributed, sold, or otherwise monetized.
 
