@@ -5,7 +5,7 @@
 <p style="text-align:center;">
 ☄️ Discover a unique Minecraft multiplayer experience like never before
   
-[![GitHub Release](https://img.shields.io/badge/release-v2.2.7-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
+[![GitHub Release](https://img.shields.io/badge/release-v2.2.8-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
 [![Resourcepack](https://img.shields.io/badge/resourcepack-download-red)](https://www.googleapis.com/drive/v3/files/1Dbu38k6xkpL1BSKCEA7DnluJiGR7qeig?alt=media&key=AIzaSyAjiCJAPplrXZ9gW6n-MQsOM7Z-qiP-FQ0)
 [![Version](https://img.shields.io/badge/version-1.19.4/1.21.1-yellow)]()
