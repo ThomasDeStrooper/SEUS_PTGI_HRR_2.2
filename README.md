@@ -16,7 +16,7 @@
 ## About
 **SnowCraft: Final Edition** _(formerly **SnowCraft**)_ isn’t just another Minecraft server. It’s a whole new world waiting to be explored. Step into an adventure like no other where you’ll battle powerful monsters, uncover hidden secrets, and travel through new and mysterious biomes. Master unique skills, wield powerful weapons, and take on mighty dragons in epic fights. This open world MMORPG survival server is built for everyone, whether you’re a seasoned player or just starting out. No matter your playstyle, SnowCraft offers an unforgettable experience, so jump in and start your adventure today.
 
-## Features include:
+## Features Include:
 - **Brand New World** - A vast, brand new world teeming with endless possibilities, where you can immerse yourself in exploration and uncover unique, intricate structures waiting to be discovered at every turn.
 - **Custom Fishing Mechanics** - Catch a variety of new fish by completing exciting mini-games, earning valuable experience points with every successful challenge you conquer, and unlock a range of new, specialized fishing rods to enhance your adventures.
 - **Kits** - Claim powerful kits to boost your strength and enhance your abilities, helping you become even more formidable in your journey.
@@ -32,7 +32,7 @@
 - **Blacksmith** - Buy a wide variety of weapons with coins to improve your strength through the blacksmith system.
 - **Thirst & Stamina** – Your character becomes thirsty over time and must drink to survive. Failure to hydrate will lead to death. Running or swimming drains stamina, requiring rest to recover. Manage both to stay alive.
   
-## Features coming soon:
+## Features Coming Soon:
 - **Ores** - There are over 60 unique and rare ores scattered throughout the underground, waiting to be discovered and mined for valuable resources.
 - **Recipies** - Craft custom items, including unique weapons, melt rare ores into valuable materials, and create a wide variety of other specialized gear to enhance your adventure.
 - **Achievements** - A new system allows you to choose from a variety of achievements, such as catching custom fish, mining rare ores, defeating custom mobs and bosses, and much more. As you complete these achievements, you'll earn Achievement Points.
@@ -44,7 +44,7 @@
   
 If you have additional questions feel free to report an issue on our [issues](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/issues) page or join our [discord](https://discord.gg/w4eFd4WMhZ) community, where you can connect with other users and get support from our team.
 
-## Resource pack
+## Resource Pack
 
 SnowCraft uses a custom resource pack.
 
