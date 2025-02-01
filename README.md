@@ -113,10 +113,10 @@ Contributions are welcome, just open a pull request.
 
 *Click here to read [the entire license](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)*
 
-The Snowcraft Resource Pack is free to use on the Snowcraft server, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the pack. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. Using the resource pack solely on the Snowcraft server helps protect the integrity of the work and supports the experience I’ve designed for the community.
+The SnowCraft Resource Pack is free to use on the Snowcraft server, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the pack. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. _Using the resource pack solely on the SnowCraft server helps protect the integrity of the work and supports the experience I’ve designed for the community._
 
 ## Credit
 
 *Click here to read [the entire credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
 
-The Snowcraft Resource Pack uses some resources from other developers, which have been utilized in accordance with their respective distribution terms. These resources were sourced from publicly available platforms offering them for free use, and I acknowledge the contributions of the creators.
+The SnowCraft Resource Pack uses some resources from other developers, which have been utilized in accordance with their respective distribution terms. These resources were sourced from publicly available platforms offering them for free use, and I acknowledge the contributions of the creators.
