@@ -14,14 +14,7 @@
 
 
 ## About
-
-**SnowCraft: Final Edition** _(formerly **SnowCraft**)_ is a unique Minecraft server like no other, transporting you to an entirely new world 
-filled with endless adventures. Engage in epic battles against formidable monsters, 
-explore uncharted territories, and uncover hidden secrets. Master custom skills tailored to enhance 
-your gameplay, wield powerful new weapons, and take on mighty dragons in thrilling encounters. 
-This open-world MMORPG survival server offers a rich and immersive experience where everyone 
-is welcome to join and play. Whether you’re a seasoned player or new to the game, 
-Snowcraft promises an unforgettable journey.
+**SnowCraft: Final Edition** _(formerly **SnowCraft**)_ isn’t just another Minecraft server. It’s a whole new world waiting to be explored. Step into an adventure like no other where you’ll battle powerful monsters, uncover hidden secrets, and travel through new and mysterious biomes. Master unique skills, wield powerful weapons, and take on mighty dragons in epic fights. This open world MMORPG survival server is built for everyone, whether you’re a seasoned player or just starting out. No matter your playstyle, SnowCraft offers an unforgettable experience, so jump in and start your adventure today.
 
 ## Features include:
 - **Brand New World** - A vast, brand new world teeming with endless possibilities, where you can immerse yourself in exploration and uncover unique, intricate structures waiting to be discovered at every turn.
