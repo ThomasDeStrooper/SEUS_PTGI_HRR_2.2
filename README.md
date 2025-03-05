@@ -31,7 +31,7 @@ Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45
 
 *Click here to read [the entire license](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/blob/main/LICENSE.md)*
 
-The SnowCraft Resource Pack is free to use on the Snowcraft server, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the pack. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. _Using the resource pack solely on the SnowCraft server helps protect the integrity of the work and supports the experience I’ve designed for the community._
+The shader is free to use, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the shader. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. 
 
 ## Credit
 
