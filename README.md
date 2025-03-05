@@ -13,6 +13,7 @@ Please note that I do not, and will never, make money from this shader edit. I d
 
 ## Importand
 There are two profiles to choose from. By default, it's set to 'Custom,' so you'll need to switch to it in order to access the custom features!
+I've also provided a funding link where you can support the original shader's creator, Sonic Ether.
 
 Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45141775
 
