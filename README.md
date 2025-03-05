@@ -3,8 +3,8 @@
 <p style="text-align:center;">
 ☄️ An edit of the popular SEUS PTGI HRR shader with better quality and performance.
   
-[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/releases/latest)
-[![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)
+[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/releases/latest)
+[![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/blob/main/LICENSE.md)
 [![Version](https://img.shields.io/badge/version-1.7.10/1.21.4-yellow)]()
 
 ## About
@@ -29,7 +29,7 @@ Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45
 
 ## License
 
-*Click here to read [the entire license](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/LICENSE.md)*
+*Click here to read [the entire license](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/blob/main/LICENSE.md)*
 
 The SnowCraft Resource Pack is free to use on the Snowcraft server, but its distribution, whether modified or intact, is strictly prohibited. This includes compiled versions, source files, or partial components of the pack. Public forks or derivatives are not allowed under this license. While you are welcome to suggest improvements or propose contributions, they must comply with the terms of this license. _Using the resource pack solely on the SnowCraft server helps protect the integrity of the work and supports the experience I’ve designed for the community._
 
