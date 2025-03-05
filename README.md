@@ -8,7 +8,7 @@
 [![Version](https://img.shields.io/badge/version-1.7.10/1.21.4-yellow)]()
 
 ## About
-**SEUS PTGI HRR 2.2** is an edit of the popular SEUS PTGI HRR 2.1 shader by ![Sonic Ether](https://www.patreon.com/sonicether). My goal with this edit is to enhance the SEUS PTGI HRR shader by improving both its quality and performance.
+**SEUS PTGI HRR 2.2** is an edit of the popular SEUS PTGI HRR 2.1 shader by Sonic Ether. My goal with this edit is to enhance the SEUS PTGI HRR shader by improving both its quality and performance.
 Please note that I do not, and will never, make money from this shader edit. I do this purely out of my passion for the shader and my love for editing shaders.
 
 ## Importand
