@@ -27,6 +27,9 @@ Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45
 - **Better Reflections** - Some reflections may be missing due to optimization, which can occasionally cause odd visual effects!
 - **Better Vibrant Colors** - We'll be enhancing the default colors of the shader to make them more vibrant and dynamic!
   
+## Resource Pack
+
+We've thoroughly tested and used the Vanilla Normal Renewed resource pack with our shader edit, and we highly recommend it for the best experience: https://github.com/Poudingue/Vanilla-Normals-Renewed
 
 ## License
 
