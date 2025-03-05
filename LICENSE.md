@@ -1,34 +1,28 @@
-# SNOWCRAFT LICENSE
+# SEUS PTGI HRR 2.2 LICENSE
 
 
-## Version 2.0, January 2025
+## Version 1.0, January 2025
 
 
 ## Definitions
 
-"Resource Pack" refers to the collection of files distributed by the Copyright Holder, specifically created for the SnowCraft server.
+"Shader" refers to the collection of files distributed by the Copyright Holder.
 
 "Copyright Holder" is Thomas De Strooper.
 
-"You" refers to the individual using, downloading, or interacting with this Resource Pack.
+"You" refers to the individual using, downloading, or interacting with this shader.
 
 
 ## Copyright (C) 2025 Thomas De Strooper
 
-You are not allowed to redistribute full, partial, or modified versions of the Resource Pack to which this license is associated. This includes selling, sharing, or claiming the Resource Pack as your own. The Resource Pack may only be used to play on the SnowCraft server and is not permitted for use in other contexts.
+You are not allowed to redistribute full, partial, or modified versions of the shader to which this license is associated. This includes selling, sharing, or claiming the shader as your own.
 
-This license does not apply to modules or extensions that use but do not contain full, partial, or modified code from this Resource Pack.
-
-The Resource Pack is provided with no warranty. Suggestions for improvement are welcome, but they must not be used to circumvent the restrictions of this license. By proposing modifications, you agree to assign all your rights to the Copyright Holder and must have the proper ownership or permissions to make such proposals.
+This license does not apply to modules or extensions that use but do not contain full, partial, or modified code from this shader.
 
 
 ## SNOWCRAFT LICENSE
 ### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-1. This Resource Pack is for use exclusively on the SnowCraft server.
+1. You may not redistribute, sell, or modify the shader without explicit permission from the Copyright Holder.
 
-2. You may not redistribute, sell, or modify the Resource Pack without explicit permission from the Copyright Holder.
-
-3. Using this Resource Pack outside of the SnowCraft server or claiming it as your own work is strictly prohibited.
-
-4. The Resource Pack is provided "as is" without any warranty. Suggestions for improvement are welcome, but they must comply with the terms of this license.
+2. Claiming this shader as your own work is strictly prohibited.
