@@ -36,4 +36,4 @@ The SnowCraft Resource Pack is free to use on the Snowcraft server, but its dist
 
 *Click here to read [the entire credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
 
-The SnowCraft Resource Pack uses some resources from other developers, which have been utilized in accordance with their respective distribution terms. These resources were sourced from publicly available platforms offering them for free use, and I acknowledge the contributions of the creators.
+Please note that I do not, and will never, make money from this shader edit. I do this purely out of my passion for the shader and my love for editing shaders.
