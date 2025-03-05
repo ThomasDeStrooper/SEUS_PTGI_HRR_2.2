@@ -14,7 +14,7 @@ Please note that I do not, and will never, make money from this shader edit. I d
 ## Importand
 There are two profiles to choose from. By default, it's set to 'Custom,' so you'll need to switch to it in order to access the custom features!
 
-## Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45141775
+Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45141775
 
 ## Features Include:
 - **Performance & Quality Profiles** - There are two profiles to choose from. By default, it's set to 'Custom,' so you'll need to switch to it in order to access the custom features!
@@ -34,6 +34,6 @@ The SnowCraft Resource Pack is free to use on the Snowcraft server, but its dist
 
 ## Credit
 
-*Click here to read [the entire credit](https://github.com/ThomasDeStrooper/SnowCraft-Final-Edition/blob/main/CREDIT.md)*
+*This is the [official shader](https://www.patreon.com/posts/download-seus-2-45141775)*
 
 Please note that I do not, and will never, make money from this shader edit. I do this purely out of my passion for the shader and my love for editing shaders.
