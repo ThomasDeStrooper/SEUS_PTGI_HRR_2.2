@@ -20,7 +20,7 @@ Installation Instructions:
 4. Drag and drop the .minecraft folder from the unzipped file into the Roaming folder.  
 5. If you're prompted to replace any files, click 'Yes' to confirm. You're all set!
 
-DISCLAIMER: Optifine is required! 
+## DISCLAIMER: Optifine is required! 
 To get the best performance with SEUS PTGI, make sure you're using OptiFine!  
 If you're currently using Fabric, switch to Forge! It's more compatible with the shader and gives better performance overall.
 
