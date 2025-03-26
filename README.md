@@ -37,13 +37,9 @@ I've also provided a funding link where you can support the original shader's cr
 Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45141775
 
 ## Features Include:
-- **Performance & Quality Profiles** - There are two profiles to choose from. By default, it's set to 'Custom,' so you'll need to switch to it in order to access the custom features!
-- **Improved Quality** - We've enhanced the quality to reduce blurriness and make it sharper, now almost matching the quality of SEUS PTGI E12!
+- **Profiles** - There are three profiles to choose from.
+- **Improved Quality** - We've enhanced the quality to reduce blurriness and make it sharper!
 - **Improved Performance** - We've significantly improved the performance, making it smoother and more efficient than ever before!
-  
-## Features Coming Soon:
-- **Better Reflections** - Some reflections may be missing due to optimization, which can occasionally cause odd visual effects!
-- **Better Vibrant Colors** - We'll be enhancing the default colors of the shader to make them more vibrant and dynamic!
   
 ## Resource Pack
 
