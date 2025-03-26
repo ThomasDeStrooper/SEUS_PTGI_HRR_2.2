@@ -3,7 +3,7 @@
 <p style="text-align:center;">
 ☄️ An edit of the popular SEUS PTGI HRR shader with better quality and performance.
   
-[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/releases/latest)
+[![GitHub Release](https://img.shields.io/badge/release-v1.0.5-blue)](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/releases/latest)
 [![GitHub License](https://img.shields.io/badge/license-GNU-green)](https://github.com/ThomasDeStrooper/SEUS_PTGI_HRR_2.2/blob/main/LICENSE.md)
 [![Version](https://img.shields.io/badge/version-1.7.10/1.21.4-yellow)]()
 
