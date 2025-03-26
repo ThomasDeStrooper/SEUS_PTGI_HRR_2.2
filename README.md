@@ -27,19 +27,15 @@ If you're currently using Fabric, switch to Forge! It's more compatible with the
 Profiles:
 
 The shader pack includes two profiles: Stable and Quality.
-- Stable: Enhances the overall image quality without applying a sharpness filter, resulting in a smoother, more natural look.
+- Stable (Default): Enhances the overall image quality without applying a sharpness filter, resulting in a smoother, more natural look.
 - Quality: Applies a sharpness filter to make the game appear crisper. However, this can sometimes produce harsh or unnatural effects on certain blocks, which may look odd in specific scenarios.
+- Experimental: Based on the Stable profile but includes bug fixes that may slightly reduce performance.
 
 For the best balance of visual fidelity and consistency, we recommend using the Stable profile.
 
 I've also provided a funding link where you can support the original shader's creator, Sonic Ether.
 
 Official Shader by Sonic Ether: https://www.patreon.com/posts/download-seus-2-45141775
-
-## Features Include:
-- **Profiles** - There are three profiles to choose from.
-- **Improved Quality** - We've enhanced the quality to reduce blurriness and make it sharper!
-- **Improved Performance** - We've significantly improved the performance, making it smoother and more efficient than ever before!
   
 ## Resource Pack
 
