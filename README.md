@@ -12,7 +12,25 @@
 Please note that I do not, and will never, make money from this shader edit. I do this purely out of my passion for the shader and my love for editing shaders.
 
 ## Importand
-There are two profiles to choose from. By default, it's set to 'Custom,' so you'll need to switch to it in order to access the custom features!
+Installation Instructions:
+
+1. Press Windows + R on your keyboard, type %appdata%, and hit Enter.  
+2. This will open the Roaming folder. Inside, you'll find a folder named .minecraft!  
+3. Unzip the file you downloaded.  
+4. Drag and drop the .minecraft folder from the unzipped file into the Roaming folder.  
+5. If you're prompted to replace any files, click 'Yes' to confirm. You're all set!
+
+DISCLAIMER:  
+To get the best performance with SEUS PTGI, make sure you're using OptiFine!  
+If you're currently using Fabric, switch to Forge! It's more compatible with the shader and gives better performance overall.
+
+Profiles:
+
+The shader pack includes two profiles: Stable and Quality.
+- Stable: Enhances the overall image quality without applying a sharpness filter, resulting in a smoother, more natural look.
+- Quality: Applies a sharpness filter to make the game appear crisper. However, this can sometimes produce harsh or unnatural effects on certain blocks, which may look odd in specific scenarios.
+
+For the best balance of visual fidelity and consistency, we recommend using the Stable profile.
 
 I've also provided a funding link where you can support the original shader's creator, Sonic Ether.
 
