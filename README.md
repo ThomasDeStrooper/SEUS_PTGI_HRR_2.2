@@ -14,11 +14,10 @@ Please note that I do not, and will never, make money from this shader edit. I d
 ## Importand
 Installation Instructions:
 
-1. Press Windows + R on your keyboard, type %appdata%, and hit Enter.  
-2. This will open the Roaming folder. Inside, you'll find a folder named .minecraft!  
-3. Unzip the file you downloaded.  
-4. Drag and drop the .minecraft folder from the unzipped file into the Roaming folder.  
-5. If you're prompted to replace any files, click 'Yes' to confirm. You're all set!
+1. Extract the 'SEUS PTGI HRR 2.2' zip file.
+2. Ensure OptiFine is installed before proceeding.
+3. Open the extracted folder and double-click the 'Install' file.
+4. That's it! You're ready to go!
 
 ## DISCLAIMER: Optifine is required! 
 To get the best performance with SEUS PTGI, make sure you're using OptiFine!  
