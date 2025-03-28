@@ -20,7 +20,7 @@ You are not allowed to redistribute full, partial, or modified versions of the s
 This license does not apply to modules or extensions that use but do not contain full, partial, or modified code from this shader.
 
 
-## SNOWCRAFT LICENSE
+## SEUS PTGI HRR 2.2 LICENSE
 ### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 1. You may not redistribute, sell, or modify the shader without explicit permission from the Copyright Holder.
